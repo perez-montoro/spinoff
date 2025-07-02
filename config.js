@@ -18,7 +18,7 @@ var config = {
     title: '¿Quieres trabajar en Extremadura después de sacarte un doctorado?',
     subtitle: 'Escosistema de SpinOffs en la región de Extremadura',
     byline: 'Mario Pérez-Montoro',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'Source: en la página se especifica de dónde se han extraido cada uno de los recuros utilizados <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: 'slug-style-id',
